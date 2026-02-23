@@ -22,11 +22,7 @@ Developed by: sharmila R
 RegisterNumber:  25018184
 
 */
-/*
-Program to implement the prediction of iris species using SGD Classifier.
-Developed by: B.C.PRAVALIKA
-RegisterNumber: 25018550 
-*/
+
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import SGDClassifier
